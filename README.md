@@ -5,7 +5,7 @@ Um aplicativo web simples de gerenciamento de tarefas foi construído utilizando
 Adição de tarefas: Os usuários podem inserir novas tarefas na lista.
 Remoção de tarefas: Os usuários podem excluir tarefas existentes da lista.
 Armazenamento local: As tarefas são salvas no armazenamento local do navegador, garantindo que os dados persistam mesmo após o fechamento e reabertura da página.
-Funcionalidade Adicional:
+
 
 ## Linguagens Usadas
 React: A biblioteca JavaScript para construção de interfaces de usuário.

@@ -12,7 +12,7 @@ Este é um projeto simples desenvolvido com **React** para gerenciamento de tare
 
 ## Como Rodar o Projeto:
 1. Clone o repositório:
-   git clone [https://github.com/FelipeBattarra/REACT](https://github.com/FelipeBattarra/REACT).git
+   git clone [https://github.com/FelipeBattarra/REACT](https://github.com/TTbrazilian/REACT).git
 
 2. Navegue até a pasta do projeto:
    cd REACT

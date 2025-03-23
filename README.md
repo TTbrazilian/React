@@ -1,41 +1,34 @@
-# React
-Trabalho da disciplina de desenvolvimento software para web I - PDF2
-Um aplicativo web simples de gerenciamento de tarefas foi construído utilizando React. O objetivo deste projeto é permitir que os usuários criem, visualizem, excluam e armazenem suas tarefas localmente no navegador.
+Este é um projeto simples desenvolvido com **React** para gerenciamento de tarefas. O objetivo é criar, listar, excluir e armazenar as tarefas no **localStorage**.
 
-Recursos Principais:
+## Funcionalidades:
+- **Adicionar tarefas**: Permite ao usuário adicionar novas tarefas.
+- **Remover tarefas**: O usuário pode excluir tarefas da lista.
+- **Armazenamento local**: As tarefas são armazenadas no **localStorage** para persistência dos dados entre as sessões.
 
-Adição de tarefas: Os usuários podem inserir novas tarefas na lista.
-Remoção de tarefas: Os usuários podem excluir tarefas existentes da lista.
-Armazenamento local: As tarefas são salvas no armazenamento local do navegador, garantindo que os dados persistam mesmo após o fechamento e reabertura da página.
-Funcionalidade Adicional:
+## Extra:
+- **Contador**: Um contador simples foi adicionado como funcionalidade extra, onde o usuário pode **incrementar** e **decrementar** o contador.
 
-Contador: Um contador simples foi incluído como um recurso extra, permitindo que os usuários incrementem e decrementem um valor numérico.
-Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
+- React
+- CSS
+- JavaScript
 
-React: A biblioteca JavaScript para construção de interfaces de usuário.
-CSS: A linguagem de estilo para a apresentação visual do aplicativo.
-JavaScript: A linguagem de programação principal para a lógica do aplicativo.
+## Como Rodar o Projeto:
+1. Clone o repositório:
+   git clone [https://github.com/FelipeBattarra/REACT](https://github.com/FelipeBattarra/REACT).git
 
-Como Rodar o Projeto:
-Clone o repositório: git clone 
+2. Navegue até a pasta do projeto:
+   cd REACT
 
-Navegue até a pasta do projeto: cd REACT  https://github.com/TTbrazilian/React.git
+3. Instale as dependências:
+   npm install
 
-Instale as dependências: npm install
+4. Execute o projeto:
+  npm start
 
-Execute o projeto: npm start
+5. O projeto estará disponível em http://localhost:3000.
 
-O projeto estará disponível em http://localhost:3000.
-
-![FotosDoSite](https://github.com/user-attachments/assets/667de805-4327-4030-9a36-3e715dd1d4a7)
-
-![FotosDoSite2](https://github.com/user-attachments/assets/3b720601-d35b-4d4f-ae21-d5417e466fb7)
-
-![FotosDoSite3](https://github.com/user-attachments/assets/43e3c5f5-46fd-4af9-afe3-24eafb1f7be9)
-
-![FotosDoSite4](https://github.com/user-attachments/assets/835fb410-67c4-402c-8386-c1b46cd5f548)
-
-
-
-
-
+![Captura de tela 2025-03-23 154900](https://github.com/user-attachments/assets/7121623b-734e-482f-a66b-e0434cf027bc)
+![Captura de tela 2025-03-23 153649](https://github.com/user-attachments/assets/81355a1f-b73b-4a11-b83c-a9cd999c204b)
+![Captura de tela 2025-03-23 153609](https://github.com/user-attachments/assets/c4080080-dada-49af-ab03-974c3affabf7)
+![Captura de tela 2025-03-23 153547](https://github.com/user-attachments/assets/69d904ac-c53f-4bdf-a118-8634a007d291)

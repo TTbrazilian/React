@@ -1,6 +1,6 @@
 Um aplicativo web simples de gerenciamento de tarefas foi construído utilizando React. O objetivo deste projeto é permitir que os usuários criem, visualizem, excluam e armazenem suas tarefas localmente no navegador.
 
-Recursos Principais:
+## Recursos Principais:
 
 Adição de tarefas: Os usuários podem inserir novas tarefas na lista.
 Remoção de tarefas: Os usuários podem excluir tarefas existentes da lista.
@@ -9,7 +9,9 @@ Funcionalidade Adicional:
 
 ## Linguagens Usadas
 React: A biblioteca JavaScript para construção de interfaces de usuário.
+
 CSS: A linguagem de estilo para a apresentação visual do aplicativo.
+
 JavaScript: A linguagem de programação principal para a lógica do aplicativo.
 
 ## Como Rodar o Projeto:

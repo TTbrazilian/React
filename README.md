@@ -5,9 +5,6 @@ Este é um projeto simples desenvolvido com **React** para gerenciamento de tare
 - **Remover tarefas**: O usuário pode excluir tarefas da lista.
 - **Armazenamento local**: As tarefas são armazenadas no **localStorage** para persistência dos dados entre as sessões.
 
-## Extra:
-- **Contador**: Um contador simples foi adicionado como funcionalidade extra, onde o usuário pode **incrementar** e **decrementar** o contador.
-
 ## Tecnologias Utilizadas:
 - React
 - CSS

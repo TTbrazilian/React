@@ -19,7 +19,7 @@ JavaScript: A linguagem de programação principal para a lógica do aplicativo.
 Como Rodar o Projeto:
 Clone o repositório: git clone 
 
-Navegue até a pasta do projeto: cd REACT
+Navegue até a pasta do projeto: cd REACT  https://github.com/TTbrazilian/React.git
 
 Instale as dependências: npm install
 

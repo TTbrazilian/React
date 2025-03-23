@@ -1,18 +1,19 @@
-Este é um projeto simples desenvolvido com **React** para gerenciamento de tarefas. O objetivo é criar, listar, excluir e armazenar as tarefas no **localStorage**.
+Um aplicativo web simples de gerenciamento de tarefas foi construído utilizando React. O objetivo deste projeto é permitir que os usuários criem, visualizem, excluam e armazenem suas tarefas localmente no navegador.
 
-## Funcionalidades:
-- **Adicionar tarefas**: Permite ao usuário adicionar novas tarefas.
-- **Remover tarefas**: O usuário pode excluir tarefas da lista.
-- **Armazenamento local**: As tarefas são armazenadas no **localStorage** para persistência dos dados entre as sessões.
+Recursos Principais:
 
-## Tecnologias Utilizadas:
-- React
-- CSS
-- JavaScript
+Adição de tarefas: Os usuários podem inserir novas tarefas na lista.
+Remoção de tarefas: Os usuários podem excluir tarefas existentes da lista.
+Armazenamento local: As tarefas são salvas no armazenamento local do navegador, garantindo que os dados persistam mesmo após o fechamento e reabertura da página.
+Funcionalidade Adicional:
+
+React: A biblioteca JavaScript para construção de interfaces de usuário.
+CSS: A linguagem de estilo para a apresentação visual do aplicativo.
+JavaScript: A linguagem de programação principal para a lógica do aplicativo.
 
 ## Como Rodar o Projeto:
 1. Clone o repositório:
-   git clone [https://github.com/FelipeBattarra/REACT](https://github.com/TTbrazilian/REACT).git
+   git clone [https://github.com/TTbrazilin/React](https://github.com/TTbrazilian/React).git
 
 2. Navegue até a pasta do projeto:
    cd REACT
@@ -25,7 +26,12 @@ Este é um projeto simples desenvolvido com **React** para gerenciamento de tare
 
 5. O projeto estará disponível em http://localhost:3000.
 
-![Captura de tela 2025-03-23 154900](https://github.com/user-attachments/assets/7121623b-734e-482f-a66b-e0434cf027bc)
-![Captura de tela 2025-03-23 153649](https://github.com/user-attachments/assets/81355a1f-b73b-4a11-b83c-a9cd999c204b)
-![Captura de tela 2025-03-23 153609](https://github.com/user-attachments/assets/c4080080-dada-49af-ab03-974c3affabf7)
-![Captura de tela 2025-03-23 153547](https://github.com/user-attachments/assets/69d904ac-c53f-4bdf-a118-8634a007d291)
+Imagens do Site:
+
+![Imagem 1](https://github.com/user-attachments/assets/e4cc8602-c10a-4c6c-b0f5-9d82f9d9d36a)
+
+![Imagem 2](https://github.com/user-attachments/assets/1dff5036-f951-4491-8054-b7b8082faeb4)
+
+![Imagem 3](https://github.com/user-attachments/assets/baef63cd-c4db-4a9e-acc3-17e8eb3f34dd)
+
+![Imagem 4](https://github.com/user-attachments/assets/dd54d71d-c068-4418-97ab-1539c7b404cc)
